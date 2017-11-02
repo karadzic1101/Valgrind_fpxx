@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.8.28)  1 NOV 2017 18:14
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.8.28)  2 NOV 2017 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1176,7 +1176,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 [6
 
 ] [7] [8] [9] [10]
-Overfull \hbox (53.4856pt too wide) in paragraph at lines 286--287
+Overfull \hbox (53.4856pt too wide) in paragraph at lines 284--285
 \T2A/cmr/m/n/12 бло-кова или не-у-па-ре-ног ко-ри-шЈе»а фукн-циjа \T2A/cmr/m/it
 /12 malloc/new/new[] \T2A/cmr/m/n/12 и \T2A/cmr/m/it/12 free/delete/delete[]\T2
 A/cmr/m/n/12 . 
@@ -1185,7 +1185,7 @@ A/cmr/m/n/12 .
 <slika1.png, id=178, 514.92375pt x 154.5775pt>
 File: slika1.png Graphic file (type png)
  <use slika1.png>
-Package pdftex.def Info: slika1.png used on input line 305.
+Package pdftex.def Info: slika1.png used on input line 303.
 (pdftex.def)             Requested size: 386.19186pt x 115.93282pt.
 
 
@@ -1194,10 +1194,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <slika2.png, id=180, 576.1525pt x 692.5875pt>
 File: slika2.png Graphic file (type png)
  <use slika2.png>
-Package pdftex.def Info: slika2.png used on input line 315.
+Package pdftex.def Info: slika2.png used on input line 313.
 (pdftex.def)             Requested size: 432.1133pt x 519.43935pt.
 
-Overfull \hbox (6.1133pt too wide) in paragraph at lines 315--316
+Overfull \hbox (6.1133pt too wide) in paragraph at lines 313--314
  [] 
  []
 
@@ -1209,16 +1209,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <slika3.png, id=198, 546.04pt x 229.85875pt>
 File: slika3.png Graphic file (type png)
  <use slika3.png>
-Package pdftex.def Info: slika3.png used on input line 338.
+Package pdftex.def Info: slika3.png used on input line 336.
 (pdftex.def)             Requested size: 409.52899pt x 172.39362pt.
 
 <slika4.png, id=200, 672.5125pt x 545.03625pt>
 File: slika4.png Graphic file (type png)
  <use slika4.png>
-Package pdftex.def Info: slika4.png used on input line 348.
+Package pdftex.def Info: slika4.png used on input line 346.
 (pdftex.def)             Requested size: 504.38313pt x 408.77618pt.
 
-Overfull \hbox (78.38313pt too wide) in paragraph at lines 348--349
+Overfull \hbox (78.38313pt too wide) in paragraph at lines 346--347
  [] 
  []
 
@@ -1228,7 +1228,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <slika5.png, id=202, 565.11125pt x 213.79875pt>
 File: slika5.png Graphic file (type png)
  <use slika5.png>
-Package pdftex.def Info: slika5.png used on input line 360.
+Package pdftex.def Info: slika5.png used on input line 358.
 (pdftex.def)             Requested size: 423.8324pt x 160.34866pt.
 
 
@@ -1237,10 +1237,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <slika6.png, id=203, 659.46375pt x 473.77pt>
 File: slika6.png Graphic file (type png)
  <use slika6.png>
-Package pdftex.def Info: slika6.png used on input line 368.
+Package pdftex.def Info: slika6.png used on input line 366.
 (pdftex.def)             Requested size: 494.59659pt x 355.32663pt.
 
-Overfull \hbox (68.59659pt too wide) in paragraph at lines 368--369
+Overfull \hbox (68.59659pt too wide) in paragraph at lines 366--367
  [] 
  []
 
@@ -1251,7 +1251,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <slika7.png, id=221, 508.90125pt x 296.10625pt>
 File: slika7.png Graphic file (type png)
  <use slika7.png>
-Package pdftex.def Info: slika7.png used on input line 395.
+Package pdftex.def Info: slika7.png used on input line 393.
 (pdftex.def)             Requested size: 381.675pt x 222.07913pt.
 
 
@@ -1261,7 +1261,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <slika8.png, id=236, 458.71375pt x 138.5175pt>
 File: slika8.png Graphic file (type png)
  <use slika8.png>
-Package pdftex.def Info: slika8.png used on input line 414.
+Package pdftex.def Info: slika8.png used on input line 412.
 (pdftex.def)             Requested size: 344.03447pt x 103.88786pt.
 
 
@@ -1270,29 +1270,48 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <slika9.png, id=237, 606.265pt x 150.5625pt>
 File: slika9.png Graphic file (type png)
  <use slika9.png>
-Package pdftex.def Info: slika9.png used on input line 422.
+Package pdftex.def Info: slika9.png used on input line 420.
 (pdftex.def)             Requested size: 454.69763pt x 112.92159pt.
 
-Overfull \hbox (28.69763pt too wide) in paragraph at lines 422--423
+Overfull \hbox (28.69763pt too wide) in paragraph at lines 420--421
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18 <./slika7.png>]
+[18 <./slika7.png>] [19 <./slika8.png> <./slika9.png>] [20]
+<slika10.png, id=255, 506.89375pt x 265.99374pt>
+File: slika10.png Graphic file (type png)
+ <use slika10.png>
+Package pdftex.def Info: slika10.png used on input line 470.
+(pdftex.def)             Requested size: 380.16939pt x 199.49481pt.
+ [21 <./slika10.png>] [22] <slika11.png, id=268, 536.0025pt x 289.08pt>
+File: slika11.png Graphic file (type png)
+ <use slika11.png>
+Package pdftex.def Info: slika11.png used on input line 504.
+(pdftex.def)             Requested size: 402.00089pt x 216.80946pt.
 
-LaTeX Warning: Reference `fig:memizv' on page 19 undefined on input line 431.
+<slika12.png, id=269, 572.1375pt x 166.6225pt>
+File: slika12.png Graphic file (type png)
+ <use slika12.png>
+Package pdftex.def Info: slika12.png used on input line 512.
+(pdftex.def)             Requested size: 429.10207pt x 124.96655pt.
 
-[19 <./slika8.png> <./slika9.png>] [20] [21
+Overfull \hbox (3.10207pt too wide) in paragraph at lines 512--513
+ [] 
+ []
 
-] [22
+[23 <./slika11.png> <./slika12.png>] [24] [25] [26] [27
 
-] (./Valgrind.bbl [23] [24]
+] [28
+
+] (./Valgrind.bbl
+[29] [30]
 bibitemlist
-) [25
+) [31
 
-] [26
+] [32
 
 
 
@@ -1300,49 +1319,52 @@ bibitemlist
 \tf@toc=\write5
 \openout5 = `Valgrind.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 494.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 494.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 597.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 597.
  (./Valgrind.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 494.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 494.
-Package rerunfilecheck Info: File `Valgrind.out' has not changed.
-(rerunfilecheck)             Checksum: 618CF47625BD6C2345396E20C7F59242;2062.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 597.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 597.
 
 
-LaTeX Warning: There were undefined references.
+Package rerunfilecheck Warning: File `Valgrind.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: Checksums for `Valgrind.out':
+(rerunfilecheck)             Before: 7506555333861ECA50F66177BE53E430;2062
+(rerunfilecheck)             After:  AE770438AB2D961DED7BDF2D530BF636;1879.
  ) 
 Here is how much of TeX's memory you used:
- 15321 strings out of 493304
- 211093 string characters out of 6139871
- 338282 words of memory out of 5000000
- 18521 multiletter control sequences out of 15000+600000
- 29020 words of font info for 59 fonts, out of 8000000 for 9000
+ 15354 strings out of 493304
+ 211505 string characters out of 6139871
+ 339112 words of memory out of 5000000
+ 18537 multiletter control sequences out of 15000+600000
+ 29367 words of font info for 60 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 48i,11n,41p,2929b,523s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texli
-ve/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/usr/share/texlive/texm
-f-dist/fonts/enc/dvips/opensans/opensans-04.enc}{/usr/share/texlive/texmf-dist/
-fonts/enc/dvips/opensans/opensans-02.enc}</usr/share/texlive/texmf-dist/fonts/t
-ype1/public/opensans/OpenSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/opensans/OpenSans-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/opensans/OpenSans-Regular.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-s
-uper/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi2488.pfb></
-usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/font
-s/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-su
-per/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></u
-sr/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf/fonts
-/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-sup
-er/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></us
-r/share/texmf/fonts/type1/public/cm-super/sfti1728.pfb>
-Output written on Valgrind.pdf (31 pages, 1443292 bytes).
+ 48i,12n,41p,2929b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{section.2.4} has been referenced but does not exi
+st, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texlive
+/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/usr/share/texlive/texmf-
+dist/fonts/enc/dvips/opensans/opensans-04.enc}{/usr/share/texlive/texmf-dist/fo
+nts/enc/dvips/opensans/opensans-02.enc}</usr/share/texlive/texmf-dist/fonts/typ
+e1/public/opensans/OpenSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/opensans/OpenSans-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/opensans/OpenSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi2488.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfti1728.pfb>
+Output written on Valgrind.pdf (37 pages, 1693654 bytes).
 PDF statistics:
- 356 PDF objects out of 1000 (max. 8388607)
- 296 compressed objects within 3 object streams
- 71 named destinations out of 1000 (max. 500000)
- 182 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 401 PDF objects out of 1000 (max. 8388607)
+ 331 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
