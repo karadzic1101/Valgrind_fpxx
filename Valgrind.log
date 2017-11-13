@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.8.28)  7 NOV 2017 10:28
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2017.8.28)  13 NOV 2017 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1371,15 +1371,16 @@ Package pdftex.def Info: slika18.png used on input line 673.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[34] [35 <./slika17.png>] [36 <./slika18.png>] [37
+[34] [35] [36 <./slika17.png>] [37 <./slika18.png>] [38
 
-] (./Valgrind.bbl [38
+] (./Valgrind.bbl
+[39
 
 ]
 bibitemlist
-) [39
+) [40
 
-] [40
+] [41
 
 
 
@@ -1387,56 +1388,47 @@ bibitemlist
 \tf@toc=\write5
 \openout5 = `Valgrind.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 736.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 736.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 744.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 744.
  (./Valgrind.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 736.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 736.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 744.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 744.
+Package rerunfilecheck Info: File `Valgrind.out' has not changed.
+(rerunfilecheck)             Checksum: AAB484DD15227E2236C35D4FE0C30EEB;1879.
 
-
-Package rerunfilecheck Warning: File `Valgrind.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Valgrind.out':
-(rerunfilecheck)             Before: 5E8E1F5F2817BE08B2156C1B228816C2;1879
-(rerunfilecheck)             After:  AAB484DD15227E2236C35D4FE0C30EEB;1879.
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
  15410 strings out of 493304
- 212220 string characters out of 6139871
+ 212216 string characters out of 6139871
  340357 words of memory out of 5000000
  18566 multiletter control sequences out of 15000+600000
  30258 words of font info for 61 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  48i,12n,41p,2929b,565s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section*.19} has been referenced but does not exi
-st, replaced by a fixed one
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texlive
-/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/usr/share/texlive/texmf-
-dist/fonts/enc/dvips/opensans/opensans-04.enc}{/usr/share/texlive/texmf-dist/fo
-nts/enc/dvips/opensans/opensans-02.enc}</usr/share/texlive/texmf-dist/fonts/typ
-e1/public/opensans/OpenSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/opensans/OpenSans-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/opensans/OpenSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-sup
-er/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1440.pfb></us
-r/share/texmf/fonts/type1/public/cm-super/sfbi2488.pfb></usr/share/texmf/fonts/
-type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-supe
-r/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr
-/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/t
-ype1/public/cm-super/sfcc1440.pfb></usr/share/texmf/fonts/type1/public/cm-super
-/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/
-share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/ty
-pe1/public/cm-super/sfti1728.pfb>
-Output written on Valgrind.pdf (45 pages, 2494784 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/usr/share/texli
+ve/texmf-dist/fonts/enc/dvips/opensans/opensans-01.enc}{/usr/share/texlive/texm
+f-dist/fonts/enc/dvips/opensans/opensans-04.enc}{/usr/share/texlive/texmf-dist/
+fonts/enc/dvips/opensans/opensans-02.enc}</usr/share/texlive/texmf-dist/fonts/t
+ype1/public/opensans/OpenSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/opensans/OpenSans-BoldItalic.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/opensans/OpenSans-Regular.pfb></usr/share/texlive/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-s
+uper/sfbi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi1440.pfb></
+usr/share/texmf/fonts/type1/public/cm-super/sfbi2488.pfb></usr/share/texmf/font
+s/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-su
+per/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></u
+sr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts
+/type1/public/cm-super/sfcc1440.pfb></usr/share/texmf/fonts/type1/public/cm-sup
+er/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></us
+r/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf/fonts/
+type1/public/cm-super/sfti1728.pfb>
+Output written on Valgrind.pdf (46 pages, 2496390 bytes).
 PDF statistics:
- 465 PDF objects out of 1000 (max. 8388607)
- 380 compressed objects within 4 object streams
+ 468 PDF objects out of 1000 (max. 8388607)
+ 382 compressed objects within 4 object streams
  104 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
